@@ -1,6 +1,6 @@
 # Labuse
 
-Yet another amazing AngularJS app
+Display of captured lab usage reports, hard coded for specific lab configuration
 
 ## Getting Started
 
